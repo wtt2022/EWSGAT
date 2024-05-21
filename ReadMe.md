@@ -1,4 +1,4 @@
-#Title: Edge Weight-aware Sparse Graph Attention Network for Community Detection in Noisy Graphs
+#Title: Weighted Graph Structure Learning with Denoising Sparse Attention for Graph Clustering
 
 #Requirements
 dgl 1.0.1
